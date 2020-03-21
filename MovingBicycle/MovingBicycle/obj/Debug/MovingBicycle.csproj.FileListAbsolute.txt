@@ -1,0 +1,20 @@
+C:\Users\emiol\source\repos\MovingBicycle\MovingBicycle\obj\Debug\MovingBicycle.csprojAssemblyReference.cache
+C:\Users\emiol\source\repos\MovingBicycle\MovingBicycle\obj\Debug\MovingBicycle.Form1.resources
+C:\Users\emiol\source\repos\MovingBicycle\MovingBicycle\obj\Debug\MovingBicycle.Properties.Resources.resources
+C:\Users\emiol\source\repos\MovingBicycle\MovingBicycle\obj\Debug\MovingBicycle.csproj.GenerateResource.cache
+C:\Users\emiol\source\repos\MovingBicycle\MovingBicycle\obj\Debug\MovingBicycle.csproj.CoreCompileInputs.cache
+C:\Users\emiol\source\repos\MovingBicycle\MovingBicycle\bin\Debug\MovingBicycle.exe.config
+C:\Users\emiol\source\repos\MovingBicycle\MovingBicycle\bin\Debug\MovingBicycle.exe
+C:\Users\emiol\source\repos\MovingBicycle\MovingBicycle\bin\Debug\MovingBicycle.pdb
+C:\Users\emiol\source\repos\MovingBicycle\MovingBicycle\obj\Debug\MovingBicycle.exe
+C:\Users\emiol\source\repos\MovingBicycle\MovingBicycle\obj\Debug\MovingBicycle.pdb
+C:\Users\emiol\Desktop\2nd year Assignment\Computer Graphics\MovingBicycle\MovingBicycle\bin\Debug\MovingBicycle.exe.config
+C:\Users\emiol\Desktop\2nd year Assignment\Computer Graphics\MovingBicycle\MovingBicycle\bin\Debug\MovingBicycle.exe
+C:\Users\emiol\Desktop\2nd year Assignment\Computer Graphics\MovingBicycle\MovingBicycle\bin\Debug\MovingBicycle.pdb
+C:\Users\emiol\Desktop\2nd year Assignment\Computer Graphics\MovingBicycle\MovingBicycle\obj\Debug\MovingBicycle.csprojAssemblyReference.cache
+C:\Users\emiol\Desktop\2nd year Assignment\Computer Graphics\MovingBicycle\MovingBicycle\obj\Debug\MovingBicycle.Form1.resources
+C:\Users\emiol\Desktop\2nd year Assignment\Computer Graphics\MovingBicycle\MovingBicycle\obj\Debug\MovingBicycle.Properties.Resources.resources
+C:\Users\emiol\Desktop\2nd year Assignment\Computer Graphics\MovingBicycle\MovingBicycle\obj\Debug\MovingBicycle.csproj.GenerateResource.cache
+C:\Users\emiol\Desktop\2nd year Assignment\Computer Graphics\MovingBicycle\MovingBicycle\obj\Debug\MovingBicycle.csproj.CoreCompileInputs.cache
+C:\Users\emiol\Desktop\2nd year Assignment\Computer Graphics\MovingBicycle\MovingBicycle\obj\Debug\MovingBicycle.exe
+C:\Users\emiol\Desktop\2nd year Assignment\Computer Graphics\MovingBicycle\MovingBicycle\obj\Debug\MovingBicycle.pdb

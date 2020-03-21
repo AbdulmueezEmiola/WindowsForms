@@ -1,0 +1,20 @@
+D:\C#\Book\Ch12 GDI\Платоновы тела\Платоновы тела\bin\Debug\Платоновы тела.exe
+D:\C#\Book\Ch12 GDI\Платоновы тела\Платоновы тела\bin\Debug\Платоновы тела.pdb
+D:\C#\Book\Ch12 GDI\Платоновы тела\Платоновы тела\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\C#\Book\Ch12 GDI\Платоновы тела\Платоновы тела\obj\x86\Debug\Платоновы_тела.FormMain.resources
+D:\C#\Book\Ch12 GDI\Платоновы тела\Платоновы тела\obj\x86\Debug\Платоновы_тела.Properties.Resources.resources
+D:\C#\Book\Ch12 GDI\Платоновы тела\Платоновы тела\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\C#\Book\Ch12 GDI\Платоновы тела\Платоновы тела\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\C#\Book\Ch12 GDI\Платоновы тела\Платоновы тела\obj\x86\Debug\Платоновы тела.exe
+D:\C#\Book\Ch12 GDI\Платоновы тела\Платоновы тела\obj\x86\Debug\Платоновы тела.pdb
+D:\C#\Book\Ch12 GDI\Платоновы тела\Платоновы тела\obj\x86\Debug\Платоновы_тела.FormTools.resources
+F:\C#\Book\Ch12 GDI\Платоновы тела\Платоновы тела\obj\x86\Debug\Платоновы тела.exe
+F:\C#\Book\Ch12 GDI\Платоновы тела\Платоновы тела\obj\x86\Debug\Платоновы тела.pdb
+F:\C#\Book\Ch12 GDI\Платоновы тела\Платоновы тела\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\C#\Book\Ch12 GDI\Платоновы тела\Платоновы тела\obj\x86\Debug\Платоновы_тела.FormMain.resources
+F:\C#\Book\Ch12 GDI\Платоновы тела\Платоновы тела\obj\x86\Debug\Платоновы_тела.FormTools.resources
+F:\C#\Book\Ch12 GDI\Платоновы тела\Платоновы тела\obj\x86\Debug\Платоновы_тела.Properties.Resources.resources
+F:\C#\Book\Ch12 GDI\Платоновы тела\Платоновы тела\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\C#\Book\Ch12 GDI\Платоновы тела\Платоновы тела\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\C#\Book\Ch12 GDI\Платоновы тела\Платоновы тела\bin\Debug\Платоновы тела.exe
+F:\C#\Book\Ch12 GDI\Платоновы тела\Платоновы тела\bin\Debug\Платоновы тела.pdb

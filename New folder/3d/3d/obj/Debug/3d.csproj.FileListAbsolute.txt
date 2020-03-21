@@ -1,0 +1,22 @@
+D:\проекты c_SH\3d\3d\3d\bin\Release\3d.exe.config
+D:\проекты c_SH\3d\3d\3d\bin\Debug\3d.exe.config
+D:\проекты c_SH\3d\3d\3d\bin\Debug\3d.XML
+D:\проекты c_SH\3d\3d\3d\bin\Debug\3d.exe
+D:\проекты c_SH\3d\3d\3d\bin\Debug\3d.pdb
+D:\проекты c_SH\3d\3d\3d\obj\Debug\3d.csprojResolveAssemblyReference.cache
+D:\проекты c_SH\3d\3d\3d\obj\Debug\_3d.Form_main.resources
+D:\проекты c_SH\3d\3d\3d\obj\Debug\_3d.Properties.Resources.resources
+D:\проекты c_SH\3d\3d\3d\obj\Debug\3d.csproj.GenerateResource.Cache
+D:\проекты c_SH\3d\3d\3d\obj\Debug\3d.exe
+D:\проекты c_SH\3d\3d\3d\obj\Debug\3d.pdb
+C:\Users\emiol\Desktop\3d\3d\bin\Debug\3d.exe.config
+C:\Users\emiol\Desktop\3d\3d\bin\Debug\3d.XML
+C:\Users\emiol\Desktop\3d\3d\bin\Debug\3d.exe
+C:\Users\emiol\Desktop\3d\3d\bin\Debug\3d.pdb
+C:\Users\emiol\Desktop\3d\3d\obj\Debug\3d.csprojAssemblyReference.cache
+C:\Users\emiol\Desktop\3d\3d\obj\Debug\_3d.Form_main.resources
+C:\Users\emiol\Desktop\3d\3d\obj\Debug\_3d.Properties.Resources.resources
+C:\Users\emiol\Desktop\3d\3d\obj\Debug\3d.csproj.GenerateResource.cache
+C:\Users\emiol\Desktop\3d\3d\obj\Debug\3d.csproj.CoreCompileInputs.cache
+C:\Users\emiol\Desktop\3d\3d\obj\Debug\3d.exe
+C:\Users\emiol\Desktop\3d\3d\obj\Debug\3d.pdb

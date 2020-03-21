@@ -1,0 +1,20 @@
+D:\Files\VSU\ПрогаГеометрия\TrainTask5Anim\TrainTask5Anim\obj\Debug\TrainTask5Anim.csprojAssemblyReference.cache
+D:\Files\VSU\ПрогаГеометрия\TrainTask5Anim\TrainTask5Anim\obj\Debug\TrainTask5Anim.Form1.resources
+D:\Files\VSU\ПрогаГеометрия\TrainTask5Anim\TrainTask5Anim\obj\Debug\TrainTask5Anim.Properties.Resources.resources
+D:\Files\VSU\ПрогаГеометрия\TrainTask5Anim\TrainTask5Anim\obj\Debug\TrainTask5Anim.csproj.GenerateResource.cache
+D:\Files\VSU\ПрогаГеометрия\TrainTask5Anim\TrainTask5Anim\obj\Debug\TrainTask5Anim.csproj.CoreCompileInputs.cache
+D:\Files\VSU\ПрогаГеометрия\TrainTask5Anim\TrainTask5Anim\bin\Debug\TrainTask5Anim.exe.config
+D:\Files\VSU\ПрогаГеометрия\TrainTask5Anim\TrainTask5Anim\bin\Debug\TrainTask5Anim.exe
+D:\Files\VSU\ПрогаГеометрия\TrainTask5Anim\TrainTask5Anim\bin\Debug\TrainTask5Anim.pdb
+D:\Files\VSU\ПрогаГеометрия\TrainTask5Anim\TrainTask5Anim\obj\Debug\TrainTask5Anim.exe
+D:\Files\VSU\ПрогаГеометрия\TrainTask5Anim\TrainTask5Anim\obj\Debug\TrainTask5Anim.pdb
+C:\Users\emiol\Desktop\2nd year Assignment\Computer Graphics\TrainTask5Anim\TrainTask5Anim\TrainTask5Anim\bin\Debug\TrainTask5Anim.exe.config
+C:\Users\emiol\Desktop\2nd year Assignment\Computer Graphics\TrainTask5Anim\TrainTask5Anim\TrainTask5Anim\bin\Debug\TrainTask5Anim.exe
+C:\Users\emiol\Desktop\2nd year Assignment\Computer Graphics\TrainTask5Anim\TrainTask5Anim\TrainTask5Anim\bin\Debug\TrainTask5Anim.pdb
+C:\Users\emiol\Desktop\2nd year Assignment\Computer Graphics\TrainTask5Anim\TrainTask5Anim\TrainTask5Anim\obj\Debug\TrainTask5Anim.csprojAssemblyReference.cache
+C:\Users\emiol\Desktop\2nd year Assignment\Computer Graphics\TrainTask5Anim\TrainTask5Anim\TrainTask5Anim\obj\Debug\TrainTask5Anim.Form1.resources
+C:\Users\emiol\Desktop\2nd year Assignment\Computer Graphics\TrainTask5Anim\TrainTask5Anim\TrainTask5Anim\obj\Debug\TrainTask5Anim.Properties.Resources.resources
+C:\Users\emiol\Desktop\2nd year Assignment\Computer Graphics\TrainTask5Anim\TrainTask5Anim\TrainTask5Anim\obj\Debug\TrainTask5Anim.csproj.GenerateResource.cache
+C:\Users\emiol\Desktop\2nd year Assignment\Computer Graphics\TrainTask5Anim\TrainTask5Anim\TrainTask5Anim\obj\Debug\TrainTask5Anim.csproj.CoreCompileInputs.cache
+C:\Users\emiol\Desktop\2nd year Assignment\Computer Graphics\TrainTask5Anim\TrainTask5Anim\TrainTask5Anim\obj\Debug\TrainTask5Anim.exe
+C:\Users\emiol\Desktop\2nd year Assignment\Computer Graphics\TrainTask5Anim\TrainTask5Anim\TrainTask5Anim\obj\Debug\TrainTask5Anim.pdb

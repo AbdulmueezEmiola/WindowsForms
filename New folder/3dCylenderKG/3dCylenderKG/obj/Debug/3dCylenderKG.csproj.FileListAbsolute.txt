@@ -1,0 +1,20 @@
+D:\Files\VSU\Технологии программирования\Практики\2курс\3dCylenderKG\3dCylenderKG\bin\Debug\3dCylenderKG.exe.config
+D:\Files\VSU\Технологии программирования\Практики\2курс\3dCylenderKG\3dCylenderKG\bin\Debug\3dCylenderKG.exe
+D:\Files\VSU\Технологии программирования\Практики\2курс\3dCylenderKG\3dCylenderKG\bin\Debug\3dCylenderKG.pdb
+D:\Files\VSU\Технологии программирования\Практики\2курс\3dCylenderKG\3dCylenderKG\obj\Debug\3dCylenderKG.csprojAssemblyReference.cache
+D:\Files\VSU\Технологии программирования\Практики\2курс\3dCylenderKG\3dCylenderKG\obj\Debug\_3dCylenderKG.Form1.resources
+D:\Files\VSU\Технологии программирования\Практики\2курс\3dCylenderKG\3dCylenderKG\obj\Debug\_3dCylenderKG.Properties.Resources.resources
+D:\Files\VSU\Технологии программирования\Практики\2курс\3dCylenderKG\3dCylenderKG\obj\Debug\3dCylenderKG.csproj.GenerateResource.cache
+D:\Files\VSU\Технологии программирования\Практики\2курс\3dCylenderKG\3dCylenderKG\obj\Debug\3dCylenderKG.csproj.CoreCompileInputs.cache
+D:\Files\VSU\Технологии программирования\Практики\2курс\3dCylenderKG\3dCylenderKG\obj\Debug\3dCylenderKG.exe
+D:\Files\VSU\Технологии программирования\Практики\2курс\3dCylenderKG\3dCylenderKG\obj\Debug\3dCylenderKG.pdb
+C:\Users\emiol\Desktop\2nd year Assignment\Computer Graphics\3dCylenderKG\3dCylenderKG\bin\Debug\3dCylenderKG.exe.config
+C:\Users\emiol\Desktop\2nd year Assignment\Computer Graphics\3dCylenderKG\3dCylenderKG\bin\Debug\3dCylenderKG.exe
+C:\Users\emiol\Desktop\2nd year Assignment\Computer Graphics\3dCylenderKG\3dCylenderKG\bin\Debug\3dCylenderKG.pdb
+C:\Users\emiol\Desktop\2nd year Assignment\Computer Graphics\3dCylenderKG\3dCylenderKG\obj\Debug\3dCylenderKG.csprojAssemblyReference.cache
+C:\Users\emiol\Desktop\2nd year Assignment\Computer Graphics\3dCylenderKG\3dCylenderKG\obj\Debug\_3dCylenderKG.Form1.resources
+C:\Users\emiol\Desktop\2nd year Assignment\Computer Graphics\3dCylenderKG\3dCylenderKG\obj\Debug\_3dCylenderKG.Properties.Resources.resources
+C:\Users\emiol\Desktop\2nd year Assignment\Computer Graphics\3dCylenderKG\3dCylenderKG\obj\Debug\3dCylenderKG.csproj.GenerateResource.cache
+C:\Users\emiol\Desktop\2nd year Assignment\Computer Graphics\3dCylenderKG\3dCylenderKG\obj\Debug\3dCylenderKG.csproj.CoreCompileInputs.cache
+C:\Users\emiol\Desktop\2nd year Assignment\Computer Graphics\3dCylenderKG\3dCylenderKG\obj\Debug\3dCylenderKG.exe
+C:\Users\emiol\Desktop\2nd year Assignment\Computer Graphics\3dCylenderKG\3dCylenderKG\obj\Debug\3dCylenderKG.pdb

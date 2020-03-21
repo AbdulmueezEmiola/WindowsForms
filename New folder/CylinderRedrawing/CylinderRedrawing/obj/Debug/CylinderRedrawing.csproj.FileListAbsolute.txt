@@ -1,0 +1,19 @@
+C:\Users\emiol\source\repos\CylinderRedrawing\CylinderRedrawing\bin\Debug\CylinderRedrawing.exe.config
+C:\Users\emiol\source\repos\CylinderRedrawing\CylinderRedrawing\bin\Debug\CylinderRedrawing.exe
+C:\Users\emiol\source\repos\CylinderRedrawing\CylinderRedrawing\bin\Debug\CylinderRedrawing.pdb
+C:\Users\emiol\source\repos\CylinderRedrawing\CylinderRedrawing\obj\Debug\CylinderRedrawing.csprojAssemblyReference.cache
+C:\Users\emiol\source\repos\CylinderRedrawing\CylinderRedrawing\obj\Debug\CylinderRedrawing.Form1.resources
+C:\Users\emiol\source\repos\CylinderRedrawing\CylinderRedrawing\obj\Debug\CylinderRedrawing.Properties.Resources.resources
+C:\Users\emiol\source\repos\CylinderRedrawing\CylinderRedrawing\obj\Debug\CylinderRedrawing.csproj.GenerateResource.cache
+C:\Users\emiol\source\repos\CylinderRedrawing\CylinderRedrawing\obj\Debug\CylinderRedrawing.csproj.CoreCompileInputs.cache
+C:\Users\emiol\source\repos\CylinderRedrawing\CylinderRedrawing\obj\Debug\CylinderRedrawing.exe
+C:\Users\emiol\source\repos\CylinderRedrawing\CylinderRedrawing\obj\Debug\CylinderRedrawing.pdb
+C:\Users\emiol\Desktop\2nd year Assignment\Computer Graphics\New folder\CylinderRedrawing\CylinderRedrawing\bin\Debug\CylinderRedrawing.exe.config
+C:\Users\emiol\Desktop\2nd year Assignment\Computer Graphics\New folder\CylinderRedrawing\CylinderRedrawing\bin\Debug\CylinderRedrawing.exe
+C:\Users\emiol\Desktop\2nd year Assignment\Computer Graphics\New folder\CylinderRedrawing\CylinderRedrawing\bin\Debug\CylinderRedrawing.pdb
+C:\Users\emiol\Desktop\2nd year Assignment\Computer Graphics\New folder\CylinderRedrawing\CylinderRedrawing\obj\Debug\CylinderRedrawing.csprojAssemblyReference.cache
+C:\Users\emiol\Desktop\2nd year Assignment\Computer Graphics\New folder\CylinderRedrawing\CylinderRedrawing\obj\Debug\CylinderRedrawing.Form1.resources
+C:\Users\emiol\Desktop\2nd year Assignment\Computer Graphics\New folder\CylinderRedrawing\CylinderRedrawing\obj\Debug\CylinderRedrawing.Properties.Resources.resources
+C:\Users\emiol\Desktop\2nd year Assignment\Computer Graphics\New folder\CylinderRedrawing\CylinderRedrawing\obj\Debug\CylinderRedrawing.csproj.GenerateResource.cache
+C:\Users\emiol\Desktop\2nd year Assignment\Computer Graphics\New folder\CylinderRedrawing\CylinderRedrawing\obj\Debug\CylinderRedrawing.exe
+C:\Users\emiol\Desktop\2nd year Assignment\Computer Graphics\New folder\CylinderRedrawing\CylinderRedrawing\obj\Debug\CylinderRedrawing.pdb
